@@ -1,4 +1,4 @@
-## Hi there 👋
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=statshakya)](https://github.com/statshakya/github-readme-stats)
 <!--
 **statshakya/statshakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
